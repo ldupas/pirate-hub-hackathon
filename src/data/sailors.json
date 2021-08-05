@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Le Triton",
+        "age": 40,
+        "detail": "Gueule de bois à vie",
+        "picture": "https://cdnb.artstation.com/p/assets/images/images/011/090/921/large/gil-robles-pirate-self-portrait-croped.jpg?1527796044",
+        "cost": 5 
+    },
+    {
+        "id": 2,
+        "name": "Joe la Balafre",
+        "age": 34,
+        "detail": "Tendance à jouer",
+        "picture": "https://www.pirates-corsaires.com/img5/blackbeard-barbe-noire-par-edward-mortelmans.jpg",
+        "cost": 12 
+    },
+    {
+        "id": 3,
+        "name": "La Murène",
+        "age": 23,
+        "detail": "Chaude-pisse",
+        "picture": "https://i.pinimg.com/originals/70/1f/90/701f90c9741b282fb558a2853ea78b46.jpg",
+        "cost": 4 
+    },
+    {
+        "id": 4,
+        "name": " Edwin Van Cleef",
+        "age": 32,
+        "detail": "Vit dans une grotte",
+        "picture": "https://cdn.shopify.com/s/files/1/2187/3447/collections/kavler_1024x1024_20d1e7d4-5b13-4278-9c8c-30d7cf90fd20.jpg?v=1528761654",
+        "cost": 20
+    },
+    {
+        "id": 5,
+        "name": "Garry",
+        "age": 19,
+        "detail": "Excellent épéiste",
+        "picture": "https://cg3.cgsociety.org/uploads/images/medium/lindseylively-pirate-1-071800f9-qpfq.jpg",
+        "cost": 26 
+    },
+    {
+        "id": 6,
+        "name": "Scar",
+        "age": 50,
+        "detail": "Unijambiste",
+        "picture": "https://i.pinimg.com/originals/c6/25/80/c625803902a80e1b36a5a2554e414905.jpg",
+        "cost": 6 
+    }
+]

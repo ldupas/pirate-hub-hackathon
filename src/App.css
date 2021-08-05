@@ -1,3 +1,13 @@
+@font-face {
+  /* font-family: 'Treasuremap';
+  src: local('Treasuremap'), url(./assets/fonts/Treasuremap-Ea1vj.ttf) format('ttf');
+  font-family: 'BooterFiveFive';
+  src: local('BooterFiveFive'), url(./assets/fonts/BooterFiveFive.ttf) format('ttf'); */
+  font-family: 'Treamd';
+  src: local('Treamd'), url(./assets/fonts/Treamd.ttf) format('ttf');
+
+}
+
 :root {
   --main-color: #0B3766;
   --second-color: #486599;
@@ -11,16 +21,25 @@
 }
 
 h1, h2, h3, h4, a {
-  font-family: Cantora One;
+  font-family: 'Treamd';
+}
+
+h1 {
+  text-align: center;
+  margin: 40px;
+  font-size: 40px;
+  color: var(--main-color)
 }
 
 h2 {
   color: var(--main-color);
-  padding-top: 50px;
-  padding-bottom: 50px;
   font-size: 30px;
 }
 
 h3 {
   font-size: 25px;
+}
+
+p {
+  font-size: 20px;
 }
