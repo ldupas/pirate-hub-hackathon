@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Treasure from './pages/Treasure';
 import Recruitment from './pages/Recruitment';
 import RhumSelection from './pages/RhumSelection';
+import Footer from './components/footer/Footer';
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route path="/rhums" component={RhumSelection} />
           </Switch>
       </Router>
+      <Footer />
     </div>
   );
 }
