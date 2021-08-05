@@ -6,22 +6,25 @@ import Treasure from './pages/Treasure';
 import Recruitment from './pages/Recruitment';
 import RhumSelection from './pages/RhumSelection';
 import Footer from './components/footer/Footer';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <Router>
-        <Navbar />
           <Switch>
             <Route exact path="/" component={LandingPage} />
-            <Route path="/accueil" component={Home} />
-            <Route path="/tresors" component={Treasure} />
-            <Route path="/recrutement" component={Recruitment} />
-            <Route path="/rhums" component={RhumSelection} />
+            <div>
+              <Navbar />
+              <Route path="/accueil" component={Home} />
+              <Route path="/tresors" component={Treasure} />
+              <Route path="/recrutement" component={Recruitment} />
+              <Route path="/rhums" component={RhumSelection} />
+              <Footer />
+            </div>
           </Switch>
       </Router>
-      <Footer />
     </div>
   );
 }

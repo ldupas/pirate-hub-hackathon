@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Rhum 1",
+        "category": "Alcool",
+        "price": 25,
+        "img": "https://www.cave-bruant.fr/7351-large_default/bumbu-rum-40.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rhum 1",
+        "category": "Alcool",
+        "price": 25,
+        "img": "https://www.cave-bruant.fr/7351-large_default/bumbu-rum-40.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rhum 1",
+        "category": "Alcool",
+        "price": 25,
+        "img": "https://www.cave-bruant.fr/7351-large_default/bumbu-rum-40.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rhum 1",
+        "category": "Alcool",
+        "price": 25,
+        "img": "https://www.cave-bruant.fr/7351-large_default/bumbu-rum-40.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rhum 1",
+        "category": "Alcool",
+        "price": 25,
+        "img": "https://www.cave-bruant.fr/7351-large_default/bumbu-rum-40.jpg"
+    }
+]

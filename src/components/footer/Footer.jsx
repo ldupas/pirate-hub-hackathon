@@ -8,7 +8,7 @@ function Footer() {
             <div className="footer-columns-container">
                 <div className="footer-column footer-column-address">
                     <h4>Adresse</h4>
-                    <span>Taverne du Perroquet Muet</span>
+                    <span>Auberge du Perroquet Muet</span>
                     <span>Fort de Rocher, FR22</span>
                     <span>Tortuga Island, Haïti</span>
                 </div>
@@ -20,13 +20,12 @@ function Footer() {
                 <div className="footer-column footer-column-social">
                     <h4>Réseaux Sociaux</h4>
                     <div className="social-links">
-                        <a href="" ><FaFacebook /></a>
-                        <a href="" ><FaInstagramSquare /></a>
-                        <a href="" ><FaTwitterSquare /></a>
+                        <a><FaFacebook /></a>
+                        <a><FaInstagramSquare /></a>
+                        <a><FaTwitterSquare /></a>
                     </div>
                 </div>
             </div>
-            <p className="greetings">Made with ❤️ par l'ami des bêtes !</p>
         </div>
     )
 }
