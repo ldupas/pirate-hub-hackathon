@@ -1,0 +1,26 @@
+:root {
+  --main-color: #0B3766;
+  --second-color: #486599;
+  --third-color: #E3F0FF;
+  --fourth-color: #D8A31A;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, a {
+  font-family: Cantora One;
+}
+
+h2 {
+  color: var(--main-color);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
